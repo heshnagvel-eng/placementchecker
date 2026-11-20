@@ -1,0 +1,47 @@
+job_id,company,role,student_id,name,branch,cgpa,backlogs,batch,approval_status
+J001,Nova Technologies,Graduate Python Developer,S001,Aarav Kumar,CSE,8.4,0,2027,PENDING_OFFICER_REVIEW
+J001,Nova Technologies,Graduate Python Developer,S002,Diya Sharma,IT,7.6,0,2027,PENDING_OFFICER_REVIEW
+J001,Nova Technologies,Graduate Python Developer,S009,Vikram Rao,IT,8.8,0,2027,PENDING_OFFICER_REVIEW
+J001,Nova Technologies,Graduate Python Developer,S015,Neil Joseph,CSE,9.1,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S001,Aarav Kumar,CSE,8.4,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S002,Diya Sharma,IT,7.6,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S003,Ishaan Raj,AIDS,8.2,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S006,Ananya Iyer,MECH,6.8,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S008,Sara Thomas,CSE,6.9,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S009,Vikram Rao,IT,8.8,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S011,Arjun Menon,ECE,6.7,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S012,Tara Singh,EEE,8.1,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S015,Neil Joseph,CSE,9.1,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S018,Ira Das,AIDS,8.5,0,2027,PENDING_OFFICER_REVIEW
+J002,DataSpring,Junior Data Analyst,S020,Riya Paul,CIVIL,8.0,0,2027,PENDING_OFFICER_REVIEW
+J003,CircuitWorks,Embedded Systems Trainee,S004,Meera Nair,ECE,7.8,1,2027,PENDING_OFFICER_REVIEW
+J003,CircuitWorks,Embedded Systems Trainee,S012,Tara Singh,EEE,8.1,0,2027,PENDING_OFFICER_REVIEW
+J004,BuildRight,Graduate Engineer Trainee,S006,Ananya Iyer,MECH,6.8,0,2027,PENDING_OFFICER_REVIEW
+J004,BuildRight,Graduate Engineer Trainee,S007,Rohan Patel,CIVIL,7.3,1,2027,PENDING_OFFICER_REVIEW
+J004,BuildRight,Graduate Engineer Trainee,S013,Dev Shah,MECH,7.4,1,2027,PENDING_OFFICER_REVIEW
+J004,BuildRight,Graduate Engineer Trainee,S014,Kavya Reddy,CIVIL,6.2,2,2027,PENDING_OFFICER_REVIEW
+J004,BuildRight,Graduate Engineer Trainee,S020,Riya Paul,CIVIL,8.0,0,2027,PENDING_OFFICER_REVIEW
+J005,AI Harbor,Machine Learning Intern,S001,Aarav Kumar,CSE,8.4,0,2027,PENDING_OFFICER_REVIEW
+J005,AI Harbor,Machine Learning Intern,S003,Ishaan Raj,AIDS,8.2,0,2027,PENDING_OFFICER_REVIEW
+J005,AI Harbor,Machine Learning Intern,S009,Vikram Rao,IT,8.8,0,2027,PENDING_OFFICER_REVIEW
+J005,AI Harbor,Machine Learning Intern,S015,Neil Joseph,CSE,9.1,0,2027,PENDING_OFFICER_REVIEW
+J005,AI Harbor,Machine Learning Intern,S018,Ira Das,AIDS,8.5,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S001,Aarav Kumar,CSE,8.4,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S002,Diya Sharma,IT,7.6,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S003,Ishaan Raj,AIDS,8.2,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S004,Meera Nair,ECE,7.8,1,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S005,Kabir Das,EEE,7.1,2,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S006,Ananya Iyer,MECH,6.8,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S007,Rohan Patel,CIVIL,7.3,1,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S008,Sara Thomas,CSE,6.9,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S009,Vikram Rao,IT,8.8,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S010,Nila Krishnan,AIDS,7.9,1,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S011,Arjun Menon,ECE,6.7,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S012,Tara Singh,EEE,8.1,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S013,Dev Shah,MECH,7.4,1,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S014,Kavya Reddy,CIVIL,6.2,2,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S015,Neil Joseph,CSE,9.1,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S016,Pooja Verma,IT,6.3,2,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S017,Aditya Bose,ECE,7.0,3,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S018,Ira Das,AIDS,8.5,0,2027,PENDING_OFFICER_REVIEW
+J006,CloudNine,Cloud Support Associate,S020,Riya Paul,CIVIL,8.0,0,2027,PENDING_OFFICER_REVIEW

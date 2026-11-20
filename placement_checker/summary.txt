@@ -1,0 +1,14 @@
+PLACEMENT ELIGIBILITY SUMMARY
+All eligible lists are drafts pending officer approval.
+
+J001 | Nova Technologies | eligible: 4 | status: matched
+J002 | DataSpring | eligible: 11 | status: matched
+J003 | CircuitWorks | eligible: 2 | status: matched
+J004 | BuildRight | eligible: 5 | status: matched
+J005 | AI Harbor | eligible: 5 | status: matched
+J006 | CloudNine | eligible: 19 | status: matched
+J007 | BrightPath | eligible: 0 | status: needs_review
+J008 | AeroMech | eligible: 0 | status: needs_review
+
+STUDENTS NOT YET ELIGIBLE FOR ANY MATCHED JOB:
+S019 - Manav Gupta

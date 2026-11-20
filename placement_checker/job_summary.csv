@@ -1,0 +1,9 @@
+job_id,company,role,branches,min_cgpa,max_backlogs,batch,status,eligible_count
+J001,Nova Technologies,Graduate Python Developer,CSE|IT,7.0,1,2027,matched,4
+J002,DataSpring,Junior Data Analyst,ALL,6.5,0,2027,matched,11
+J003,CircuitWorks,Embedded Systems Trainee,ECE|EEE,7.2,2,2027,matched,2
+J004,BuildRight,Graduate Engineer Trainee,MECH|CIVIL,6.0,,2027,matched,5
+J005,AI Harbor,Machine Learning Intern,CSE|IT|AIDS,8.0,0,2027,matched,5
+J006,CloudNine,Cloud Support Associate,ALL,6.0,3,2027,matched,19
+J007,BrightPath,Business Operations Trainee,,,,,needs_review,0
+J008,AeroMech,Engineering Trainee,,7.0,1,2027,needs_review,0

@@ -1,0 +1,21 @@
+student_id,name,branch,cgpa,backlogs,batch
+S001,Aarav Kumar,CSE,8.4,0,2027
+S002,Diya Sharma,IT,7.6,0,2027
+S003,Ishaan Raj,AIDS,8.2,0,2027
+S004,Meera Nair,ECE,7.8,1,2027
+S005,Kabir Das,EEE,7.1,2,2027
+S006,Ananya Iyer,MECH,6.8,0,2027
+S007,Rohan Patel,CIVIL,7.3,1,2027
+S008,Sara Thomas,CSE,6.9,0,2027
+S009,Vikram Rao,IT,8.8,0,2027
+S010,Nila Krishnan,AIDS,7.9,1,2027
+S011,Arjun Menon,ECE,6.7,0,2027
+S012,Tara Singh,EEE,8.1,0,2027
+S013,Dev Shah,MECH,7.4,1,2027
+S014,Kavya Reddy,CIVIL,6.2,2,2027
+S015,Neil Joseph,CSE,9.1,0,2027
+S016,Pooja Verma,IT,6.3,2,2027
+S017,Aditya Bose,ECE,7.0,3,2027
+S018,Ira Das,AIDS,8.5,0,2027
+S019,Manav Gupta,MECH,5.9,0,2027
+S020,Riya Paul,CIVIL,8.0,0,2027
